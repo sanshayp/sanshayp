@@ -29,7 +29,3 @@ Random 1-on-1 video chat platform for college students.
 ## 🌍 Open Source
 - **DSpace**: [Four undocumented configuration keys of the Crossref DOI connector (Issue #13252)](https://github.com/DSpace/DSpace/pull/13260), wrote the config keys(Open, under review)
 
-
-## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=sanshayp&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanshayp&layout=compact&theme=tokyonight" />
