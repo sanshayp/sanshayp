@@ -1,7 +1,7 @@
 <div align="center">
   
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Sanshay Patiyal - Himalayan Mountains" />
+  <img src="./Banner.png" width="100%" alt="Sanshay Patiyal - Himalayan Mountains" />
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=500&lines=Java+Developer;Spring+Boot+%7C+DSA;Open+Source+Contributor" />
