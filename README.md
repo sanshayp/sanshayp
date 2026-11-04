@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=500&lines=Java+Developer;Spring+Boot+%7C+DSA;Open+Source+Contributor" alt="Java Developer | Spring Boot | DSA | Open Source Contributor" />
 
-[🌐 Portfolio](https://sanshay.me) • [💼 LinkedIn](https://www.linkedin.com/in/sanshay-patiyal-2984723a2) • [🧩 LeetCode](https://leetcode.com/u/YOUR_LEETCODE_USERNAME) • [📧 Email](mailto:sanshaypatiyal406@gmail.com)
+[🌐 Portfolio](https://sanshay.me) • [💼 LinkedIn](https://www.linkedin.com/in/sanshay-patiyal-2984723a2) • [🧩 LeetCode](https://leetcode.com/u/Sanshay) • [📧 Email](mailto:sanshaypatiyal406@gmail.com)
 
 </div>
 
@@ -39,7 +39,7 @@
     </td>
     <td align="center">
       <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME">
-        <img height="165" src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code" alt="LeetCode stats" />
+        <img height="165" src="https://leetcard.jacoblin.cool/Sanshay?theme=dark&font=Fira%20Code" alt="LeetCode stats" />
       </a>
     </td>
   </tr>
