@@ -27,7 +27,7 @@
 <img src="https://skillicons.dev/icons?i=react" alt="Frontend" />
 
 <b>Tools & DevOps</b><br/>
-<img src="https://skillicons.dev/icons?i=git,github,maven,postman,linux,fedora,vercel" alt="Tools and DevOps" />
+<img src="https://skillicons.dev/icons?i=git,github,maven,postman,linux,vercel" alt="Tools and DevOps" />
 
 <b>IDEs</b><br/>
 <img src="https://skillicons.dev/icons?i=idea,vscode" alt="IDEs" />
