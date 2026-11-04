@@ -12,21 +12,22 @@
 - **Education:** CS Student @ Chitkara University (Class of 2029)
 - **Focus:** Java, backend development, DSA
 - **Currently Learning:** Spring Boot, System Design
-- **Problem Solving:** Solving DSA problems on [LeetCode](https://leetcode.com/u/YOUR_LEETCODE_USERNAME)
+- **Problem Solving:** Solving DSA problems on [LeetCode](https://leetcode.com/u/Sanshay)
 - **Portfolio:** [sanshay.me](https://sanshay.me)
 
 ## 🛠️ Tech Stack
 <b>Languages</b><br/>
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css" alt="Languages" />
+<img src="https://img.shields.io/badge/SQL-2F81F7?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" height="48" />
 
 <b>Backend & Databases</b><br/>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,mongodb" alt="Backend and databases" />
+<img src="https://skillicons.dev/icons?i=spring,mysql,firebase" alt="Backend and databases" />
 
 <b>Frontend</b><br/>
 <img src="https://skillicons.dev/icons?i=react" alt="Frontend" />
 
 <b>Tools & DevOps</b><br/>
-<img src="https://skillicons.dev/icons?i=git,github,maven,postman,linux,fedora" alt="Tools and DevOps" />
+<img src="https://skillicons.dev/icons?i=git,github,maven,postman,linux,fedora,vercel" alt="Tools and DevOps" />
 
 <b>IDEs</b><br/>
 <img src="https://skillicons.dev/icons?i=idea,vscode" alt="IDEs" />
@@ -38,7 +39,7 @@
       <img height="165" src="https://streak-stats.demolab.com?user=sanshayp&theme=tokyonight&hide_border=true" alt="GitHub streak" />
     </td>
     <td align="center">
-      <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME">
+      <a href="https://leetcode.com/u/Sanshay">
         <img height="165" src="https://leetcard.jacoblin.cool/Sanshay?theme=dark&font=Fira%20Code" alt="LeetCode stats" />
       </a>
     </td>
